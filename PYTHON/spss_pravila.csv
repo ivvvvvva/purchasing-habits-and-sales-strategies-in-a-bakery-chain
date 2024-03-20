@@ -1,0 +1,25 @@
+Consequent	Antecedent 	Support %	Confidence %
+Tart_18	Cake_3 and Danish_35	4.303	95.538
+Danish_35	Cake_3 and Tart_18	4.337	94.774
+Cake_0	Cake_2 and Coffee_46	3.524	94.741
+Coffee_46	Cake_2 and Cake_0	3.553	93.959
+Croissant_32	Tart_16 and Coffee_45	3.504	93.683
+Eclair_7	Pie_11 and Twist_37	3.668	93.566
+Tart_16	Croissant_32 and Coffee_45	3.537	92.801
+Pie_11	Twist_37 and Eclair_7	3.712	92.457
+Twist_37	Pie_11 and Eclair_7	3.727	92.093
+Eclair_7	Twist_37 and Coffee_45	3.092	90.944
+Pie_11	Twist_37 and Coffee_45	3.092	90.729
+Eclair_7	Pie_11 and Coffee_45	3.103	90.546
+Twist_37	Pie_11 and Coffee_45	3.103	90.417
+Twist_37	Coffee_45 and Eclair_7	3.156	89.1
+Pie_11	Coffee_45 and Eclair_7	3.156	89.016
+Coffee_45	Pie_11 and Twist_37 and Eclair_7	3.432	81.352
+Cake_3	Danish_35 and Tart_18	5.309	77.423
+Coffee_45	Pie_11 and Twist_37	3.668	76.481
+Cake_2	Coffee_46 and Cake_0	4.404	75.81
+Coffee_45	Twist_37 and Eclair_7	3.712	75.754
+Coffee_45	Tart_16 and Croissant_32	4.351	75.452
+Coffee_45	Pie_11 and Eclair_7	3.727	75.385
+Espresso_49	Tart_15 and Eclair_7	3.641	74.698
+Cookie_29	Tart_17 and Frappuccino_47	3.596	74.416
